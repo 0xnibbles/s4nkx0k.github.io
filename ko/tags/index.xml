@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Hugo Zzo Theme</title>
-    <link>/ko/tags/</link>
+    <link>s4nkx0k.github.io/ko/tags/</link>
     <description>Recent content in Tags on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -15,7 +15,7 @@
     <webMaster>c2Fua3hvY19hdF9wcjB0MG5tYWlsX2RvdF9jb20K (s4nkx0k)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="/ko/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="s4nkx0k.github.io/ko/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -23,11 +23,11 @@
       
       <item>
         <title>index</title>
-        <link>/ko/tags/index/</link>
+        <link>s4nkx0k.github.io/ko/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>c2Fua3hvY19hdF9wcjB0MG5tYWlsX2RvdF9jb20K (s4nkx0k)</author>
         
-        <guid>/ko/tags/index/</guid>
+        <guid>s4nkx0k.github.io/ko/tags/index/</guid>
         <description></description>
         
         <dc:creator>s4nkx0k</dc:creator>

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Publications on s4nkx0k</title>
-    <link>/en/publication/</link>
+    <link>s4nkx0k.github.io/en/publication/</link>
     <description>Recent content in Publications on s4nkx0k</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-        <atom:link href="/en/publication/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="s4nkx0k.github.io/en/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>article</title>
-        <link>/en/publication/article/</link>
+        <link>s4nkx0k.github.io/en/publication/article/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>c2Fua3hvY19hdF9wcjB0MG5tYWlsX2RvdF9jb20K (s4nkx0k)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>/en/publication/article/</guid>
+        <guid>s4nkx0k.github.io/en/publication/article/</guid>
         <description></description>
         
         <dc:creator>s4nkx0k</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>book</title>
-        <link>/en/publication/book/</link>
+        <link>s4nkx0k.github.io/en/publication/book/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>c2Fua3hvY19hdF9wcjB0MG5tYWlsX2RvdF9jb20K (s4nkx0k)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>/en/publication/book/</guid>
+        <guid>s4nkx0k.github.io/en/publication/book/</guid>
         <description></description>
         
         <dc:creator>s4nkx0k</dc:creator>
@@ -60,11 +60,11 @@
       
       <item>
         <title>misc</title>
-        <link>/en/publication/misc/</link>
+        <link>s4nkx0k.github.io/en/publication/misc/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>c2Fua3hvY19hdF9wcjB0MG5tYWlsX2RvdF9jb20K (s4nkx0k)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>/en/publication/misc/</guid>
+        <guid>s4nkx0k.github.io/en/publication/misc/</guid>
         <description></description>
         
         <dc:creator>s4nkx0k</dc:creator>
