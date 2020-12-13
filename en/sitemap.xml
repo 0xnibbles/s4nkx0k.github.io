@@ -3,215 +3,215 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>s4nkx0k.github.io/en/showcase/hugo/hugo-theme-zzo/</loc>
+    <loc>/en/showcase/hugo/hugo-theme-zzo/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/showcase/hugo/hugo-theme-zdoc/</loc>
+    <loc>/en/showcase/hugo/hugo-theme-zdoc/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/</loc>
+    <loc>/en/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="s4nkx0k.github.io/ko/"
+                href="/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="s4nkx0k.github.io/en/"
+                href="/en/"
                 />
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/tags/.net/</loc>
+    <loc>/en/tags/.net/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/about/</loc>
+    <loc>/en/about/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="s4nkx0k.github.io/ko/about/"
+                href="/ko/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="s4nkx0k.github.io/en/about/"
+                href="/en/about/"
                 />
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/tags/alternate-data-streams/</loc>
+    <loc>/en/tags/alternate-data-streams/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/tags/cifs/</loc>
+    <loc>/en/tags/cifs/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/posts/2020-12-12-first-posting/</loc>
+    <loc>/en/posts/2020-12-12-first-posting/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/tags/hackthebox/</loc>
+    <loc>/en/tags/hackthebox/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/tags/hqk/</loc>
+    <loc>/en/tags/hqk/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/posts/2020-06-07-htb-nest-/</loc>
+    <loc>/en/posts/2020-06-07-htb-nest-/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/tags/ilspy/</loc>
+    <loc>/en/tags/ilspy/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/tags/path-traversal/</loc>
+    <loc>/en/tags/path-traversal/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/posts/</loc>
+    <loc>/en/posts/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="s4nkx0k.github.io/ko/posts/"
+                href="/ko/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="s4nkx0k.github.io/en/posts/"
+                href="/en/posts/"
                 />
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/tags/psexec/</loc>
+    <loc>/en/tags/psexec/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/tags/smbclient/</loc>
+    <loc>/en/tags/smbclient/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/tags/</loc>
+    <loc>/en/tags/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="s4nkx0k.github.io/ko/tags/"
+                href="/ko/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="s4nkx0k.github.io/en/tags/"
+                href="/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/publication/article/</loc>
+    <loc>/en/publication/article/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/publication/book/</loc>
+    <loc>/en/publication/book/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/publication/misc/</loc>
+    <loc>/en/publication/misc/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/publication/</loc>
+    <loc>/en/publication/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/showcase/hugo/</loc>
+    <loc>/en/showcase/hugo/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/showcase/</loc>
+    <loc>/en/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/archive/</loc>
+    <loc>/en/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="s4nkx0k.github.io/ko/archive/"
+                href="/ko/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="s4nkx0k.github.io/en/archive/"
+                href="/en/archive/"
                 />
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/publication/article/article_any_folder_name_1/</loc>
+    <loc>/en/publication/article/article_any_folder_name_1/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/publication/book/book_any_folder_name_1/</loc>
+    <loc>/en/publication/book/book_any_folder_name_1/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/publication/misc/misc_any_folder_name_1/</loc>
+    <loc>/en/publication/misc/misc_any_folder_name_1/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/categories/</loc>
+    <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="s4nkx0k.github.io/ko/categories/"
+                href="/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="s4nkx0k.github.io/en/categories/"
+                href="/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>s4nkx0k.github.io/en/series/</loc>
+    <loc>/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="s4nkx0k.github.io/ko/series/"
+                href="/ko/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="s4nkx0k.github.io/en/series/"
+                href="/en/series/"
                 />
   </url>
   

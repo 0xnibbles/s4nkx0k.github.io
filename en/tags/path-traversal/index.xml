@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>path traversal on s4nkx0k</title>
-    <link>s4nkx0k.github.io/en/tags/path-traversal/</link>
+    <link>/en/tags/path-traversal/</link>
     <description>Recent content in path traversal on s4nkx0k</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="s4nkx0k.github.io/en/tags/path-traversal/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/tags/path-traversal/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>HTB: Nest</title>
-        <link>s4nkx0k.github.io/en/posts/2020-06-07-htb-nest-/</link>
+        <link>/en/posts/2020-06-07-htb-nest-/</link>
         <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
         <author>c2Fua3hvY19hdF9wcjB0MG5tYWlsX2RvdF9jb20K (s4nkx0k)</author>
         <atom:modified>Sat, 12 Dec 2020 00:00:00 +0000</atom:modified>
-        <guid>s4nkx0k.github.io/en/posts/2020-06-07-htb-nest-/</guid>
+        <guid>/en/posts/2020-06-07-htb-nest-/</guid>
         <description>&lt;p&gt;&lt;strong&gt;This post is special because is my first writeup :)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;We have the box named Nest, which is a Windows machine, built with literal &amp;ldquo;nested&amp;rdquo; challenges. A lot of enumeration and a little touch of .NET decompilation at the end defines this box.&lt;/p&gt;</description>
         

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on s4nkx0k</title>
-    <link>s4nkx0k.github.io/en/tags/</link>
+    <link>/en/tags/</link>
     <description>Recent content in Tags on s4nkx0k</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="s4nkx0k.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>.net</title>
-        <link>s4nkx0k.github.io/en/tags/.net/</link>
+        <link>/en/tags/.net/</link>
         <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
         <author>c2Fua3hvY19hdF9wcjB0MG5tYWlsX2RvdF9jb20K (s4nkx0k)</author>
         
-        <guid>s4nkx0k.github.io/en/tags/.net/</guid>
+        <guid>/en/tags/.net/</guid>
         <description></description>
         
         <dc:creator>s4nkx0k</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>alternate data streams</title>
-        <link>s4nkx0k.github.io/en/tags/alternate-data-streams/</link>
+        <link>/en/tags/alternate-data-streams/</link>
         <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
         <author>c2Fua3hvY19hdF9wcjB0MG5tYWlsX2RvdF9jb20K (s4nkx0k)</author>
         
-        <guid>s4nkx0k.github.io/en/tags/alternate-data-streams/</guid>
+        <guid>/en/tags/alternate-data-streams/</guid>
         <description></description>
         
         <dc:creator>s4nkx0k</dc:creator>
@@ -60,11 +60,11 @@
       
       <item>
         <title>cifs</title>
-        <link>s4nkx0k.github.io/en/tags/cifs/</link>
+        <link>/en/tags/cifs/</link>
         <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
         <author>c2Fua3hvY19hdF9wcjB0MG5tYWlsX2RvdF9jb20K (s4nkx0k)</author>
         
-        <guid>s4nkx0k.github.io/en/tags/cifs/</guid>
+        <guid>/en/tags/cifs/</guid>
         <description></description>
         
         <dc:creator>s4nkx0k</dc:creator>
@@ -78,11 +78,11 @@
       
       <item>
         <title>hackthebox</title>
-        <link>s4nkx0k.github.io/en/tags/hackthebox/</link>
+        <link>/en/tags/hackthebox/</link>
         <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
         <author>c2Fua3hvY19hdF9wcjB0MG5tYWlsX2RvdF9jb20K (s4nkx0k)</author>
         
-        <guid>s4nkx0k.github.io/en/tags/hackthebox/</guid>
+        <guid>/en/tags/hackthebox/</guid>
         <description></description>
         
         <dc:creator>s4nkx0k</dc:creator>
@@ -96,11 +96,11 @@
       
       <item>
         <title>hqk</title>
-        <link>s4nkx0k.github.io/en/tags/hqk/</link>
+        <link>/en/tags/hqk/</link>
         <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
         <author>c2Fua3hvY19hdF9wcjB0MG5tYWlsX2RvdF9jb20K (s4nkx0k)</author>
         
-        <guid>s4nkx0k.github.io/en/tags/hqk/</guid>
+        <guid>/en/tags/hqk/</guid>
         <description></description>
         
         <dc:creator>s4nkx0k</dc:creator>
@@ -114,11 +114,11 @@
       
       <item>
         <title>ilspy</title>
-        <link>s4nkx0k.github.io/en/tags/ilspy/</link>
+        <link>/en/tags/ilspy/</link>
         <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
         <author>c2Fua3hvY19hdF9wcjB0MG5tYWlsX2RvdF9jb20K (s4nkx0k)</author>
         
-        <guid>s4nkx0k.github.io/en/tags/ilspy/</guid>
+        <guid>/en/tags/ilspy/</guid>
         <description></description>
         
         <dc:creator>s4nkx0k</dc:creator>
@@ -132,11 +132,11 @@
       
       <item>
         <title>path traversal</title>
-        <link>s4nkx0k.github.io/en/tags/path-traversal/</link>
+        <link>/en/tags/path-traversal/</link>
         <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
         <author>c2Fua3hvY19hdF9wcjB0MG5tYWlsX2RvdF9jb20K (s4nkx0k)</author>
         
-        <guid>s4nkx0k.github.io/en/tags/path-traversal/</guid>
+        <guid>/en/tags/path-traversal/</guid>
         <description></description>
         
         <dc:creator>s4nkx0k</dc:creator>
@@ -150,11 +150,11 @@
       
       <item>
         <title>psexec</title>
-        <link>s4nkx0k.github.io/en/tags/psexec/</link>
+        <link>/en/tags/psexec/</link>
         <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
         <author>c2Fua3hvY19hdF9wcjB0MG5tYWlsX2RvdF9jb20K (s4nkx0k)</author>
         
-        <guid>s4nkx0k.github.io/en/tags/psexec/</guid>
+        <guid>/en/tags/psexec/</guid>
         <description></description>
         
         <dc:creator>s4nkx0k</dc:creator>
@@ -168,11 +168,11 @@
       
       <item>
         <title>smbclient</title>
-        <link>s4nkx0k.github.io/en/tags/smbclient/</link>
+        <link>/en/tags/smbclient/</link>
         <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
         <author>c2Fua3hvY19hdF9wcjB0MG5tYWlsX2RvdF9jb20K (s4nkx0k)</author>
         
-        <guid>s4nkx0k.github.io/en/tags/smbclient/</guid>
+        <guid>/en/tags/smbclient/</guid>
         <description></description>
         
         <dc:creator>s4nkx0k</dc:creator>
