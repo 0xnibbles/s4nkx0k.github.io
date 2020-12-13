@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>s4nkx0k&#39;s blog</title>
-    <link>s4nkx0k.github.io/ko/en/</link>
+    <link>/ko/en/</link>
     <description>Recent content on s4nkx0k&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -15,7 +15,7 @@
     <webMaster>c2Fua3hvY19hdF9wcjB0MG5tYWlsX2RvdF9jb20K (s4nkx0k)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="s4nkx0k.github.io/ko/en/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/ko/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on s4nkx0k</title>
-    <link>s4nkx0k.github.io/en/categories/</link>
+    <link>/en/categories/</link>
     <description>Recent content in Categories on s4nkx0k</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>c2Fua3hvY19hdF9wcjB0MG5tYWlsX2RvdF9jb20K (s4nkx0k)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="s4nkx0k.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
